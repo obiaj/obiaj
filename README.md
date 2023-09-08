@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Julian Obiajulu</h1>
 <h3 align="center">I am a Full-stack developers</h3>
 
-<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" >
+<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obiaj&label=Profile%20views&color=0e75b6&style=flat" alt="obiaj" /> </p>
 
