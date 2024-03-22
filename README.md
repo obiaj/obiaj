@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Julian Obiajulu</h1>
 <h3 align="center">I am a Full-stack developers</h3>
 
-<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" >
+<img align="right" width="400" alt="Coding" src="[https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif](https://www.canva.com/design/DAF-EBOCz7M/xz4zHoDmglcEUlSy-9jmMw/view?utm_content=DAF-EBOCz7M&utm_campaign=designshare&utm_medium=link&utm_source=editor)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obiaj&label=Profile%20views&color=0e75b6&style=flat" alt="obiaj" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a real time chat app**
 
-- 🌱 I’m currently learning **React js, MERN, Django,**
+- 🌱 I’m currently learning **React js, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/obiaj](https://github.com/obiaj)
 
